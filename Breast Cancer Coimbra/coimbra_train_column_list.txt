@@ -1,0 +1,1 @@
+Classification,Age,BMI,Glucose,Insulin,HOMA,Leptin,Adiponectin,Resistin,MCP.1
