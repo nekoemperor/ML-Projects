@@ -1,12 +1,15 @@
 # ML-Projects: Breast Cancer Coimbra 
 
-(latest update v2 on 26 March 2021)
+(latest update on 31 March 2021)
 
 Update:
-- Model with XGBoost is the best model so far with accuracy ~71%
-
-Next improvement: 
-- PCA will be tested
+- without Kernel PCA
+  XGBoost and KNN Classifier can get ~75% accuracy
+  
+- using Kernel PCA
+- Model with Decision Tree Classifier is the best model so far with accuracy ~78%
+- XGBoost can only get accuracy ~72% 
+- and KNN ~61%
 
 
 
